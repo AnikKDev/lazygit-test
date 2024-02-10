@@ -1,6 +1,6 @@
 const foo = "bar"
 console.log(foo.length)
 const bar = "bar"
-bar.slice(0, 3)
+bar.concat("Anik")
 console.log(bar);
 
